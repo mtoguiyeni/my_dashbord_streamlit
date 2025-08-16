@@ -5,5 +5,9 @@ les etapes de ce projet sont les suivantes :
 2. Installer les dépendances
 3. Creer les fichiers programmes 
 4. pusher le projet sur github
+5. creer un compte sur streamlit 
+6. Pousser le projet sur streamlit
+7. Configurer le dashboard
+8. Lancer le dashboard
+9. Accéder au dashboard
 
-```bash

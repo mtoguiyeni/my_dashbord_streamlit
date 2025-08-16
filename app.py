@@ -1,7 +1,7 @@
 # app.py
 import streamlit as st
 import pandas as pd
-from . import transform
+from transform import clean_data as transform
 
 df = pd.read_csv("data/data.csv")
 df = transform(df)
